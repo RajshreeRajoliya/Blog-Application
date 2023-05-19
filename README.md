@@ -1,4 +1,4 @@
-# Flipkart Clone
+# Blog Application
 
 Hey Everyone,
 This is my individual project Blog Application, with MERN Stack.
